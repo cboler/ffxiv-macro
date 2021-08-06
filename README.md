@@ -6,7 +6,7 @@ Macros for FFXIV by Job
 
 # Jobs
 
-This is not _yet_ an *exhaustive* list.
+This is not _yet_ an **exhaustive** list.
 
 | Name | Discipline | Role |
 |:--------------|:-------------:|:-------------:|
