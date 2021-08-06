@@ -1,3 +1,5 @@
-# Dragoon
+## Dragoon
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/dragoon/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/dragoon/)  
+
+### Macros

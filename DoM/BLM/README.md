@@ -1,5 +1,5 @@
-# Black Mage
+## Black Mage
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/blackmage/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/blackmage/)  
 
-# Macros
+### Macros

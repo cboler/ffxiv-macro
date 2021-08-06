@@ -1,3 +1,5 @@
-# Summoner
+## Summoner
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/summoner/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/summoner/)  
+
+### Macros

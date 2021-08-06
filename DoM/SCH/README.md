@@ -1,3 +1,7 @@
-# Scholar
+## Scholar
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/scholar/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/scholar/)  
+
+### Macros
+
+[Swiftcast Raise](Swiftcast-Raise.md)

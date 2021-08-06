@@ -1,4 +1,8 @@
-/macroicon "Shirk"
-/actionerror off
-/macroerror off
-/ac "Shirk" <2>
+### Shirk
+---
+```
+/macroicon "Shirk"  
+/actionerror off  
+/macroerror off  
+/ac "Shirk" <2>  
+```

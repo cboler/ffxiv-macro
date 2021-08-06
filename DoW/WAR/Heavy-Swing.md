@@ -1,6 +1,10 @@
-/macroicon "Heavy Swing"
-/actionerror off
-/macroerror off
-/ft
-/ac "Reprisal"
-/ac "Heavy Swing"
+### Heavy Swing
+---
+```
+/macroicon "Heavy Swing"  
+/actionerror off  
+/macroerror off  
+/ft  
+/ac "Reprisal"  
+/ac "Heavy Swing"  
+```

@@ -1,3 +1,5 @@
-# Paladin
+## Paladin
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/paladin/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/paladin/)  
+
+### Macros

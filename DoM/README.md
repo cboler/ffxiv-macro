@@ -1,1 +1,1 @@
-# Disciples of Magic
+## Disciples of Magic

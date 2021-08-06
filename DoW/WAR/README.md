@@ -1,7 +1,8 @@
-# Warrior
+## Warrior
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/warrior/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/warrior/)  
 
-# Macros
+### Macros
 
-[Heavy Swing](Heavy-Swing.md)
+[Heavy Swing](Heavy-Swing.md)  
+[Shirk](Shirk.md)

@@ -1,3 +1,5 @@
-# Bard
+## Bard
 
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/bard/)
+[Job Reference](https://na.finalfantasyxiv.com/jobguide/bard/)  
+
+### Macros
