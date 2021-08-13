@@ -2,4 +2,4 @@
 
 ### Macros
 
-[Swiftcast Raise](Swiftcast-Raise.md)
+[Swiftcast Raise](../../Common/Swiftcast-Raise.md)
