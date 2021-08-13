@@ -1,6 +1,4 @@
-## Scholar
-
-[Job Reference](https://na.finalfantasyxiv.com/jobguide/scholar/)  
+## [Scholar](https://na.finalfantasyxiv.com/jobguide/scholar/)  
 
 ### Macros
 
