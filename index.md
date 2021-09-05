@@ -31,9 +31,6 @@ _Macros for FFXIV._
 
 ### [Disciples of the Hand](/DoH/index.md)
 
-| Name | Role | Role Icon |
-|:--------------|:-------------:|-------------:|
-||||
 Coming soon!
 
 
