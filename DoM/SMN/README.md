@@ -2,7 +2,7 @@
 
 ### Macros
 
-[Bio III](Bio-III.md)
-[Swiftcast Raise](../../Common/Swiftcast-Raise.md)
-[Surecast-Summon](Surecast-Summon.md)
-[Tri-Disaster-Bane](Tri-Disaster-Bane)
+- [Bio III](Bio-III.md)
+- [Swiftcast Raise](../../Common/Swiftcast-Raise.md)
+- [Surecast-Summon](Surecast-Summon.md)
+- [Tri-Disaster-Bane](Tri-Disaster-Bane)

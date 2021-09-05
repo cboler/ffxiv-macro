@@ -2,5 +2,5 @@
 
 ### Macros
 
-[Heavy Swing](Heavy-Swing.md)  
-[Shirk](Shirk.md)
+- [Heavy Swing](Heavy-Swing.md)  
+- [Shirk](Shirk.md)
