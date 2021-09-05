@@ -6,5 +6,6 @@
 /macroerror off  
 /ft  
 /ac "Tri-disaster"  
+/wait 2.6
 /ac "Bane"  
 ```

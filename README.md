@@ -3,13 +3,10 @@
 _Macros for FFXIV by Job._  
 &nbsp;
 Please feel free to submit a pull request.  
+I would like to maintain as much of the current style as possible, but I'm not unreasonable.
 &nbsp;
 
-[syntax reference](https://ffxiv.consolegameswiki.com/wiki/Macro)  
 
-[text commands](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/placeholder/)  
-
-[signs](https://ffxiv.consolegameswiki.com/wiki/Signs)
 
 # Jobs  
 &nbsp;
@@ -41,3 +38,14 @@ This is not _yet_ an **exhaustive** list.
 | [Warrior](/DoW/WAR) | ![Tank](https://img.finalfantasyxiv.com/lds/promo/h/d/rFrCBcRe9YrmPvb4fZkuFksSLw.png) |
 
 </details>  
+
+
+## References
+
+[Where the icons are linked from](https://na.finalfantasyxiv.com/jobguide/) and the most excellent and up to date resource for ability descriptions. Be sure to check out the upcoming [Endwalker](https://na.finalfantasyxiv.com/endwalker/) expansion!
+
+[syntax reference](https://ffxiv.consolegameswiki.com/wiki/Macro)  
+
+[text commands](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/placeholder/)  
+
+[signs](https://ffxiv.consolegameswiki.com/wiki/Signs)

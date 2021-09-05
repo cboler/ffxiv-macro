@@ -6,6 +6,7 @@
 /macroerror off  
 /ft  
 /ac "Surecast"  
+/wait 2.6
 /ac "Summon III"  
 ```
 
@@ -15,6 +16,7 @@
 /macroerror off  
 /ft  
 /ac "Surecast"  
+/wait 2.6
 /ac "Summon II"  
 ```
 
@@ -24,5 +26,6 @@
 /macroerror off  
 /ft  
 /ac "Surecast"  
+/wait 2.6
 /ac "Summon"  
 ```
